@@ -1,0 +1,8 @@
+{
+  "name": "Roxy Cell Tanggul Dashboard",
+  "description": "Multi-functional dashboard and cashier calculator for Roxy Cell Tanggul to manage inventory and sales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
